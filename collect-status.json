@@ -3,20 +3,20 @@
   "time": "08:00",
   "days": 1,
   "source": "embedded-scheduler",
-  "taskEnabled": true,
+  "taskEnabled": false,
   "scheduler": {
     "expr": "0 8 * * *",
     "graceMs": 7200000,
     "nextRunAt": "2026-11-25T00:00:00.000Z",
     "lastRunAt": "2026-11-24T00:26:54.175Z",
-    "lastOk": null,
-    "lastExit": null,
-    "running": true
+    "lastOk": true,
+    "lastExit": 0,
+    "running": false
   },
   "nextRunAt": "2026-11-25 08:00:00",
   "lastRunAt": "2026-11-24 08:26:54",
-  "lastResult": 0,
-  "taskExists": true,
+  "lastResult": "",
+  "taskExists": false,
   "config": {
     "enabled": true,
     "time": "08:00",
@@ -25,21 +25,22 @@
     "updatedBy": "local"
   },
   "lastCollect": {
-    "at": "2026-11-24 08:30:02",
+    "at": "2026-11-24 13:27:46",
     "requests": 105,
-    "fetched": 2307,
-    "added": 102,
-    "failed": 0
+    "fetched": 0,
+    "added": 0,
+    "failed": 105
   },
   "lastDetail": {
-    "at": "2026-11-24 08:37:25",
-    "added": 177
+    "at": "2026-11-24 13:30:30",
+    "added": 0
   },
+  "taskError": "spawnSync powershell ENOENT",
   "ok": true,
   "lastPublish": {
     "ok": false,
-    "at": "2026-11-24 08:12:35",
-    "localVersion": "0dfe3d8156",
+    "at": "2026-11-24 11:41:04",
+    "localVersion": "4881686985",
     "message": "发布凭据不可用：WorkBuddy 需要重新生成凭据（在客户端发一条消息即可）"
   }
 }
