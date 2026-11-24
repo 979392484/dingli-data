@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-11-03T02:27:42.432Z",
+  "rebuiltFrom": "data/logs/collect-full-2026-11-03.log",
+  "note": "进程被手动停止，结束报告未写盘，这里按日志逐词汇总重建",
+  "requests": 174,
+  "got": 3439,
+  "inserted": 2712,
+  "duplicate": 727,
+  "failed": 3,
+  "keywords": [
+    {
+      "kw": "箱式变电站",
+      "pages": 19,
+      "got": 362,
+      "inserted": 268,
+      "dup": 94,
+      "stopped": "已到 total"
+    },
+    {
+      "kw": "箱变",
+      "pages": 21,
+      "got": 420,
+      "inserted": 310,
+      "dup": 110,
+      "stopped": "已到 total"
+    },
+    {
+      "kw": "输电线路铁塔",
+      "pages": 20,
+      "got": 396,
+      "inserted": 344,
+      "dup": 52,
+      "stopped": "请求失败"
+    },
+    {
+      "kw": "角钢塔",
+      "pages": 24,
+      "got": 461,
+      "inserted": 396,
+      "dup": 65,
+      "stopped": "已到 total"
+    },
+    {
+      "kw": "铁塔",
+      "pages": 10,
+      "got": 200,
+      "inserted": 185,
+      "dup": 15,
+      "stopped": "已到 total"
+    },
+    {
+      "kw": "特高压",
+      "pages": 20,
+      "got": 400,
+      "inserted": 340,
+      "dup": 60,
+      "stopped": "已到 total"
+    },
+    {
+      "kw": "通信塔",
+      "pages": 29,
+      "got": 580,
+      "inserted": 457,
+      "dup": 123,
+      "stopped": "已到 total"
+    },
+    {
+      "kw": "通信铁塔",
+      "pages": 24,
+      "got": 480,
+      "inserted": 295,
+      "dup": 185,
+      "stopped": "已到 total"
+    },
+    {
+      "kw": "钢管杆",
+      "pages": 7,
+      "got": 140,
+      "inserted": 117,
+      "dup": 23,
+      "stopped": "限流放弃"
+    },
+    {
+      "kw": "变电站构支架",
+      "pages": 0,
+      "got": 0,
+      "inserted": 0,
+      "dup": 0,
+      "stopped": "限流放弃"
+    }
+  ]
+}
