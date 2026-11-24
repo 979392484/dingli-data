@@ -1,0 +1,672 @@
+{
+  "summary": {
+    "generatedAt": "2026-11-24T00:37:26.395Z",
+    "total": 1225,
+    "rawTotal": 5428,
+    "withUrl": 1220,
+    "blockedCount": 122,
+    "govCount": 11,
+    "otherCount": 1087,
+    "note": "被标红的域名是聚合站付费墙，打开也看不到正文，这是时间/金额字段补不全的根本原因"
+  },
+  "completeness": {
+    "total": 1225,
+    "bidDeadline": 1225,
+    "bidStart": 213,
+    "docDeadline": 45,
+    "budget": 44,
+    "body": 1135,
+    "region": 1216,
+    "sourceUrl": 1220
+  },
+  "hosts": [
+    {
+      "host": "eproport.crecgec.com",
+      "count": 283,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.zhiliaobiaoxun.com",
+      "count": 119,
+      "blocked": true,
+      "hasUrl": true
+    },
+    {
+      "host": "ec.sinopec.com",
+      "count": 103,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.crccep.cn",
+      "count": 76,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "bid.zyepp.com",
+      "count": 73,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.cnncecp.com",
+      "count": 54,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "sp.iccec.cn",
+      "count": 44,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "(无效链接)",
+      "count": 37,
+      "blocked": false,
+      "hasUrl": false
+    },
+    {
+      "host": "bid.ansteel.cn",
+      "count": 31,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "huashi.tfygcgfw.com",
+      "count": 27,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ltzxgl.com.cn",
+      "count": 22,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "bidding.epec.com",
+      "count": 19,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ecp.sgcc.com.cn",
+      "count": 15,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.jczh.com",
+      "count": 14,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.cebpubservice.com",
+      "count": 14,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.bidding.csg.cn",
+      "count": 14,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.chnenergybidding.com.cn",
+      "count": 12,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ecp.chinasalt.com.cn",
+      "count": 11,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ecsg.com.cn",
+      "count": 10,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.njxic.com",
+      "count": 9,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ggzyjy.nmg.gov.cn",
+      "count": 8,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "gaineasy.cn",
+      "count": 8,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "cg.ccteg.cn",
+      "count": 8,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "hlzc.chinaconch.com",
+      "count": 8,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "bid.xkjt.net",
+      "count": 7,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.youzhicai.com",
+      "count": 7,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.etrading.cn",
+      "count": 7,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "quotation.daqihui.com",
+      "count": 7,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.ymzec.com",
+      "count": 7,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.chdtp.com",
+      "count": 6,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "cg.95306.cn",
+      "count": 6,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zc.longdaoyun.com",
+      "count": 6,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.ejy365.com",
+      "count": 5,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.csscbidding.com",
+      "count": 5,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "cg.aceg.com.cn",
+      "count": 5,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.gigeps.com",
+      "count": 5,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.xinecai.com",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.yzczb.com",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.zdjhc.com",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.qdygcg.com",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.lecaiyun.com",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zb.chinaccsscm.cn",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zct.xacin.com.cn",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "iscmdzzb.pipechina.com.cn",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ztb.shudaolink.com",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "fzztb.fzsggzyjyfwzx.cn",
+      "count": 4,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "purb.bid.cnooc.com.cn",
+      "count": 3,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "srm.catarc.ac.cn",
+      "count": 3,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zb.chinalco.com.cn",
+      "count": 3,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.zhygcg.com",
+      "count": 3,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.cnpcbidding.com",
+      "count": 3,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "scny.tfygcgfw.com",
+      "count": 3,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "bids.crmsc.com.cn",
+      "count": 3,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.sjzsggzyjyzx.org.cn",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "szggzy.com",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.jsygjy.cn",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ebidding.hebtig.com",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ygcgpt-1-1prod.eos-beijing-7.cmecloud.cn",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ebuy.citicpacific.com.cn",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "youcaiyun.com",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ebd.mychery.com",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zc.lnjttz.cn",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ec.minmetals.com.cn",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.zhaotx.cn",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.xmszzc.com",
+      "count": 2,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "xunbiaobao.baidu.com",
+      "count": 1,
+      "blocked": true,
+      "hasUrl": true
+    },
+    {
+      "host": "gzw.my.gov.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ggzy.hefei.gov.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "sgcc.dlnyzb.com",
+      "count": 1,
+      "blocked": true,
+      "hasUrl": true
+    },
+    {
+      "host": "juhua.ccccnet.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "xn--kpr97vxpdltgu77c60f.xn--wlqt9jkzcgs7a4y3bw2i.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ebidding.sinopec.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.xjygcg.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ecp.impc.com.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "xf.szecp.com.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "eps.qlssn.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.xaprtc.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.gzebid.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "c.cnbm.com.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.hibidding.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "cmjt.tfygcgfw.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.gsnhcg.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zc.hljsjtjt.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ggzy.hebei.gov.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.ahbbzc.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "36.108.168.59",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "bd.ispacechina.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "jc.abchina.com.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "gzny.e-qyzc.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "bid.youserzb.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "main.zchzb.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zpzb.zgpmsm.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.szgyjtzc.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "xj.86ztbb.com",
+      "count": 1,
+      "blocked": true,
+      "hasUrl": true
+    },
+    {
+      "host": "bid.norincogroup-ebuy.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.hbidding.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "pur.airchina.com.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.xjwltzc.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "sd.zcjb.com.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.whcjzb.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "jagqcg.etrading.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "ebidding.hbnengxin.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.anxincai.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.hebeibidding.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zhaobiao.tgcw.net.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "yct.gldyz.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "www.jjgcjs.cn",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    },
+    {
+      "host": "zbcg.hbcoal.com",
+      "count": 1,
+      "blocked": false,
+      "hasUrl": true
+    }
+  ]
+}
