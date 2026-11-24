@@ -1,0 +1,45 @@
+{
+  "enabled": true,
+  "time": "08:00",
+  "days": 1,
+  "source": "embedded-scheduler",
+  "taskEnabled": true,
+  "scheduler": {
+    "expr": "0 8 * * *",
+    "graceMs": 7200000,
+    "nextRunAt": "2026-11-25T00:00:00.000Z",
+    "lastRunAt": "2026-11-24T00:26:54.175Z",
+    "lastOk": null,
+    "lastExit": null,
+    "running": true
+  },
+  "nextRunAt": "2026-11-25 08:00:00",
+  "lastRunAt": "2026-11-24 08:26:54",
+  "lastResult": 0,
+  "taskExists": true,
+  "config": {
+    "enabled": true,
+    "time": "08:00",
+    "days": 1,
+    "updatedAt": "2026-11-24T00:27:28.123Z",
+    "updatedBy": "local"
+  },
+  "lastCollect": {
+    "at": "2026-11-24 08:30:02",
+    "requests": 105,
+    "fetched": 2307,
+    "added": 102,
+    "failed": 0
+  },
+  "lastDetail": {
+    "at": "2026-11-24 08:37:25",
+    "added": 177
+  },
+  "ok": true,
+  "lastPublish": {
+    "ok": false,
+    "at": "2026-11-24 08:12:35",
+    "localVersion": "0dfe3d8156",
+    "message": "发布凭据不可用：WorkBuddy 需要重新生成凭据（在客户端发一条消息即可）"
+  }
+}
